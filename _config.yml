@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              YEHUA
+bio:                "Emily Ye Hua's personal website"
+description:        "Blog of what I have learned"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://yh1008.github.io/yehua
 
 # Jekyll
 permalink:          /:title/
@@ -40,10 +40,10 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
-github-url:         username
+facebook:           emilyyehua
+github-url:         https://github.com/yh1008
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/ye-emily-hua/
 #xing:              username
 instagram:          username
 #lastfm:            username
