@@ -13,7 +13,6 @@ url:                https://yh1008.github.io/yehua
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-remote_theme:       moon
 highlighter:        rouge
 kramdown:
   auto_ids:         true
@@ -27,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   yehua
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -41,7 +40,7 @@ disqus_shortname:   taylantatli
 email:              huaye1994@gmail.com
 #twitter:            username
 facebook:           emilyyehua
-github-url:         https://github.com/yh1008
+github-url:         yh1008
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           https://www.linkedin.com/in/ye-emily-hua/
 #xing:              username
