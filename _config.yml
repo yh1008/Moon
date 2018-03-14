@@ -13,7 +13,7 @@ url:                https://yh1008.github.io/yehua
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-remote_theme:       TaylanTatli/Moon
+remote_theme:       moon
 highlighter:        rouge
 kramdown:
   auto_ids:         true
